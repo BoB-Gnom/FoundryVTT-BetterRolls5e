@@ -6,9 +6,9 @@
   "authors": [],
   "url": "https://github.com/RedReign/FoundryVTT-BetterRolls5e/tree/master/betterrolls5e",
   "flags": {},
-  "version": "1.7.2",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "version": "1.7.3",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
   "scripts": [
     "greensock/dist/gsap.min.js"
   ],
